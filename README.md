@@ -1,11 +1,10 @@
-# Assignment 4: Deploy Gitea in a Custom VPC with Multiple EC2 Instances
+# Deploy Gitea in a Custom VPC with Multiple EC2 Instances
 
-Course : CSC 510 Cloud Computing  
 Sandeep Shiraskar  
 
 ---
 
-For this Assignment, we have used the following:
+For this , we have used the following:
 
 - VPC: 10.0.0.0/16
 - Public subnet: 10.0.1.0/24 → contains nginx reverse proxy EC2 (only instance with public IP).
